@@ -1,0 +1,3 @@
+Name,Gender,Age,Job,AAPL,GOOG,MSFT,AMZN,AAPL_Price,GOOG_Price,MSFT_Price,AMZN_Price
+Alex,Male,23,Management,5,2,10,0,100,1500,250,0
+Mary,Female,25,technician,100,1,3,10,120,1300,280,300
